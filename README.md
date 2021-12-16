@@ -20,7 +20,7 @@ Gets the ZOOM link by scheduled date and time.
 | Method | Description |
 --------- | -------- |
 [PHI.UI.Transaction.execute('Information', '/Account/Login', null, function (n)](https://online.yildiz.edu.tr/Account/Login) | Log In
-[PHI.UI.Transaction.merge('details', '/ViewOnlineLessonProgramForStudent/ListAttendance'](https://online.yildiz.edu.tr/ViewOnlineLessonProgramForStudent/ListAttendance) | Get The List Of Lessons/Classes
+[PHI.UI.Transaction.merge('details', '/ViewOnlineLessonProgramForStudent/ListAttendance'](https://online.yildiz.edu.tr/ViewOnlineLessonProgramForStudent/ListAttendance) | Gets the List Of Lessons/Classes
 [PHI.UI.Transaction.popuplg('Ders Kayıtları', '/ViewOnlineLessonProgramForStudent/Watch'](https://online.yildiz.edu.tr/ViewOnlineLessonProgramForStudent/Watch) | Classes Records 
 
 
